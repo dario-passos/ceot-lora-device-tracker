@@ -9,17 +9,17 @@ Developed by: D. Passos and B. Mendes (https://www.ceot.ualg.pt/)
 ## Screenshots
 
 ![Im1](https://github.com/dario-passos/ceot-lora-device-tracker/blob/master/dashboard%20pictures/ceot_iot_app1.png)
-
+<hr>
 ![Im2](https://github.com/dario-passos/ceot-lora-device-tracker/blob/master/dashboard%20pictures/ceot_iot_app2.png)
-
+<hr>
 ![Im3](https://github.com/dario-passos/ceot-lora-device-tracker/blob/master/dashboard%20pictures/ceot_iot_app3.png)
-
+<hr>
 ![Im4](https://github.com/dario-passos/ceot-lora-device-tracker/blob/master/dashboard%20pictures/ceot_iot_app4.png)
-
+<hr>
 ![Im5](https://github.com/dario-passos/ceot-lora-device-tracker/blob/master/dashboard%20pictures/ceot_iot_app5.png)
-
+<hr>
 ![Im6](https://github.com/dario-passos/ceot-lora-device-tracker/blob/master/dashboard%20pictures/ceot_iot_app6.png)
-
+<hr>
 ![Im7](https://github.com/dario-passos/ceot-lora-device-tracker/blob/master/dashboard%20pictures/ceot_iot_app7.png)
 
 
